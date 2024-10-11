@@ -1,0 +1,41 @@
+false
+false
+false
+false
+false
+false
+false
+false
+{"Seg": false, "Ter": false, "Qua": false, "Qui": false, "Sex": false, "Sab": false, "Dom": false}
+{"Seg": [], "Ter": [], "Qua": [], "Qui": [], "Sex": [], "Sab": [], "Dom": []}
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+0
+false
+false
+false
+false
+false
+false
+false
+{"Seg": false, "Ter": false, "Qua": false, "Qui": false, "Sex": false, "Sab": false, "Dom": false}
+{"Seg": [], "Ter": [], "Qua": [], "Qui": [], "Sex": [], "Sab": [], "Dom": []}
+0
+[]
+[]
+[]
+[1]
+[]
+[]
+[]
+[]
+0.05
+"Pequeno"
+false
+27.0
