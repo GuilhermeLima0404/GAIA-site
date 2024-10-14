@@ -3768,4 +3768,4 @@ def main(page: ft.page):
     page.update()
 
 
-ft.app(main, view=ft.AppView.WEB_BROWSER)
+ft.app(main)
